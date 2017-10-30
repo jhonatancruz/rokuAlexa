@@ -1,1 +1,1 @@
-# This is Amazon Alexa ap that controls a Roku tv through the use the Roku API, Alexa, and Flask-ask 
+# This is an Amazon Alexa app that controls a Roku tv through voice with the use the Roku API, Alexa, and Flask-ask 
